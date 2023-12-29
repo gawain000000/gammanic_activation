@@ -23,7 +23,9 @@
 ## Introduction
 
 This repository contains a PyTorch implementation of the Gammainc activation function. 
+
 $P(a, x) = \frac{1}{\Gamma(a)} \int_{0}^{x} t^{a-1} e^{-t} \, dt$
+
 The Gammainc activation function is based on the regularized lower incomplete gamma function, often used in statistical and mathematical applications.
 
 
