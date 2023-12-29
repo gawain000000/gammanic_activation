@@ -66,7 +66,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - gawain000000@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/gawain000000/gammanic_activation/tree/master?tab=readme-ov-file)
+Project Link: [https://github.com/gawain000000/gammanic_activation/tree/master?tab=readme-ov-file](https://github.com/gawain000000/gammanic_activation/tree/master?tab=readme-ov-file)
 
 
 
